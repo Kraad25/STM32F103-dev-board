@@ -6419,7 +6419,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
+		(property "Footprint" "Boot_Switch:Boot_switch_custom"
 			(at 157.48 64.77 0)
 			(hide yes)
 			(show_name no)

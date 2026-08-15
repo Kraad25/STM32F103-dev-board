@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Boot_Switch") (type "KiCad") (uri "${KIPRJMOD}/Boot_Switch.pretty") (options "") (descr ""))
+)
